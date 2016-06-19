@@ -1,0 +1,16 @@
+[
+    {
+        "id": "0",
+        "name": "海阔天空",
+        "path": "http://www.codedog.site/songs/haikuotiankong.mp3",
+        "songer": "信乐团",
+        "lrcUrl": "lrcs/2.lrc"
+    },
+    {
+        "id": "1",
+        "name": "十年",
+        "path": "http://www.codedog.site/songs/shinian.mp3",
+        "songer": "陈奕迅",
+        "lrcUrl": "lrcs/1.lrc"
+    }
+]
